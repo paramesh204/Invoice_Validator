@@ -1,1 +1,10 @@
 node_modules
+<<<<<<< HEAD
+=======
+data.db
+uploads/*
+!uploads/.gitkeep
+.env
+dist
+.DS_Store
+>>>>>>> 1a33bc0 (Initial commit - full project)
